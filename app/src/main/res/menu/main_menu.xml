@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_delete_bought"
+        android:title="Очистить купленные"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_delete_all"
+        android:title="🗑️ Очистить весь список"
+        app:showAsAction="never" />
+
+</menu>
